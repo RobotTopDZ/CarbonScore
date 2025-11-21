@@ -78,10 +78,10 @@ mlruns/
 artifacts/
 
 # Data files (keep structure, ignore large files)
-data/*.csv
-data/*.json
-data/*.xlsx
-!data/.gitkeep
+# data/*.csv
+# data/*.json
+# data/*.xlsx
+# !data/.gitkeep
 
 # PDF outputs
 reports/*.pdf
